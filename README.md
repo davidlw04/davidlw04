@@ -20,7 +20,7 @@ Durante mis prácticas tuve la oportunidad de trabajar en el área de Tecnologí
 
 Actualmente estoy preparando y documentando varios proyectos personales y académicos:
 
-* 🔲 **Matriz LED 8x8** - Proyecto con Arduino, teclado matricial 4x4 y comunicación Wi-Fi mediante ESP8266.  
+* 🔲 [**Matriz LED 8x8**](https://github.com/pablomontoro5/MatrizLED_Keypad_ESP8266) - Proyecto con Arduino, teclado matricial 4x4 y comunicación Wi-Fi mediante ESP8266.  
   Proyecto colaborativo con [@pablomontoro5](https://github.com/pablomontoro5)
 * 💣 **Réplica de efectos de una bomba de Counter-Strike: Global Offensive** - Proyecto basado en Arduino con pantallas, buzzers y efectos LED.
 * ⌚ **Pulsera biométrica basada en IMU** - Trabajo de Fin de Grado relacionado con investigación y desarrollo de una pulsera biométrica.
