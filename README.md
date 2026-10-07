@@ -4,7 +4,7 @@
 
 💻 Interesado en **desarrollo de software, sistemas embebidos e IoT**.
 
-🔧 Me gusta desarrollar proyectos en los que se combinan **software y hardware**, especialmente utilizando Arduino y ESP32.
+🔧 Me gusta desarrollar proyectos en los que se combinan **software y hardware**, especialmente utilizando Arduino y ESP8266.
 
 ## 💼 Experiencia
 
@@ -20,7 +20,8 @@ Durante mis prácticas tuve la oportunidad de trabajar en el área de Tecnologí
 
 Actualmente estoy preparando y documentando varios proyectos personales y académicos:
 
-* 🔲 **Matriz LED 8x8** - Proyecto con Arduino, teclado matricial 4x4 y comunicación Wi-Fi mediante ESP32.
+* 🔲 **Matriz LED 8x8** - Proyecto con Arduino, teclado matricial 4x4 y comunicación Wi-Fi mediante ESP8266.  
+  Proyecto colaborativo con [@pablomontoro5](https://github.com/pablomontoro5)
 * 💣 **Réplica de efectos de una bomba de Counter-Strike: Global Offensive** - Proyecto basado en Arduino con pantallas, buzzers y efectos LED.
 * ⌚ **Pulsera biométrica basada en IMU** - Trabajo de Fin de Grado relacionado con investigación y desarrollo de una pulsera biométrica.
 
@@ -28,7 +29,7 @@ Actualmente estoy preparando y documentando varios proyectos personales y acadé
 
 * C/C++
 * Arduino
-* ESP32
+* ESP8266
 * Sistemas embebidos
 * IoT
 * Git / GitHub
